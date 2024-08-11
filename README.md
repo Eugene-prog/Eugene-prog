@@ -1,4 +1,11 @@
-## Hi there 👋
+### Hi! 👋 My name is Eugene. Welcome! :v:
+
+#### About me
+
+* I am programmer from Novosibirsk :computer:
+* I learn Java :coffee:
+* I learn Computer science in [Polzunov Altai State Technical University](https://en.altstu.ru/) (Polzunov Altai State Technical University). :office:
+
 
 <!--
 **Eugene-prog/Eugene-prog** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
