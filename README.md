@@ -5,7 +5,8 @@
 * I am programmer from Novosibirsk :computer:
 * I learn Java :coffee:
 * I learn Computer science in [Polzunov Altai State Technical University](https://en.altstu.ru/) (Polzunov Altai State Technical University). :office:
-
+  
+![Eugene's GitHub stats](https://github-readme-stats.vercel.app/api?username=eugene-prog&show_icons=true&theme=transparent)
 
 <!--
 **Eugene-prog/Eugene-prog** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
